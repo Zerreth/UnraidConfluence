@@ -1,6 +1,6 @@
 # Unraid Confluence App Template
 
-<img src="https://craftassets.unraid.net/uploads/_1200x630_crop_center-center_82_none/seo-unraid.png" width="720"/> <img src="https://github.com/Zerreth/UnraidConfluence/raw/master/Confluence.png" width="128"/> 
+<img src="https://craftassets.unraid.net/uploads/_1200x630_crop_center-center_82_none/seo-unraid.png" width="700"/> <img src="https://github.com/Zerreth/UnraidConfluence/raw/master/Confluence.png" width="128"/> 
 
 ## Setup Info
 
