@@ -21,7 +21,7 @@
 This is where Confluence stores its appdata.  
 **Default:** `/mnt/user/appdata/confluence/`  
 
-**Host Port 1**  
+**Confluence Port**  
 *Container Port: 8090*  
 The port used to access Confluence's web interface.  
 **Default:** `9090`  
