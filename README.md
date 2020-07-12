@@ -9,7 +9,7 @@
 > 📚 For more info on all the possible docker variables, please 🌐 [Check the official Confluence dockerhub page](https://hub.docker.com/r/atlassian/confluence-server/).
 
 > ⚠️ I highly recommend using **PostgreSQL** (Postgres11 + PGAdmin4) as your DB backend as **MariaDB isn't supported** and was giving me all sorts of issues with Atlassian software.
-🌐 [View Confluence compatibility info](https://confluence.atlassian.com/jseng/supported-platforms-881686453.html) / 
+🌐 [View Confluence compatibility info](https://confluence.atlassian.com/doc/supported-platforms-207488198.html) / 
 🌐 [View Confluence PostgreSQL setup info](https://confluence.atlassian.com/doc/database-setup-for-postgresql-173244522.html)
 
 > ▶️ By default this docker template is setup to access via https proxy (e.g. Letsencrypt) and a domain. Check out this video by Spaceinvader One on Youtube how to set this up:
