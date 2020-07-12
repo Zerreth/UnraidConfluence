@@ -2,7 +2,8 @@
 
 <img src="https://craftassets.unraid.net/uploads/_1200x630_crop_center-center_82_none/seo-unraid.png" width="700"/> <img src="https://github.com/Zerreth/UnraidConfluence/raw/master/Confluence.png" width="128"/> 
 
-> 📦 **Unraid Docker Template:** 🌐 [Confluence.xml](https://github.com/Zerreth/UnraidConfluence/blob/master/Confluence.xml)
+> 📦 **Unraid Docker Template:** 🌐 [Confluence.xml](https://github.com/Zerreth/UnraidConfluence/blob/master/Confluence.xml)  
+> ❤️ **Unraid Forum:** 🌐 [Visit Support Thread](https://forums.unraid.net/topic/94624-support-zerreth-confluence/)  
 
 ## Setup Info
 
