@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support/>
   <Project/>
-  <Overview/>
+  <Overview>Confluence for Unraid<Overview/>
   <Category/>
   <WebUI>http://[IP]:[PORT:8090]/</WebUI>
   <TemplateURL/>
@@ -20,9 +20,9 @@
   <DateInstalled>1592183305</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <Description/>
+  <Description>Confluence for Unraid<Description/>
   <Networking>
-    <Mode>letsencrypt</Mode>
+    <Mode></Mode>
     <Publish>
       <Port>
         <HostPort>9090</HostPort>
@@ -62,7 +62,7 @@
   </Environment>
   <Labels/>
   <Config Name="Confluence Home" Target="/var/atlassian/application-data/confluence" Default="" Mode="rw" Description="Container Path: /var/atlassian/application-data/confluence" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/confluence</Config>
-  <Config Name="Host Port 1" Target="8090" Default="" Mode="tcp" Description="Container Port: 8090" Type="Port" Display="always" Required="false" Mask="false">9090</Config>
+  <Config Name="Confluence Port" Target="8090" Default="" Mode="tcp" Description="Container Port: 8090" Type="Port" Display="always" Required="false" Mask="false">9090</Config>
   <Config Name="Proxy Fully Qualified Hostname" Target="ATL_PROXY_NAME" Default="" Mode="" Description="Container Variable: ATL_PROXY_NAME" Type="Variable" Display="always" Required="false" Mask="false">please.replace.me</Config>
   <Config Name="Proxy Protocol Scheme" Target="ATL_TOMCAT_SCHEME" Default="" Mode="" Description="Container Variable: ATL_TOMCAT_SCHEME" Type="Variable" Display="always" Required="false" Mask="false">https</Config>
   <Config Name="Proxy Require HTTPS for Login" Target="ATL_TOMCAT_SECURE" Default="" Mode="" Description="Container Variable: ATL_TOMCAT_SECURE" Type="Variable" Display="always" Required="false" Mask="false">true</Config>
