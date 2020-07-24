@@ -10,7 +10,7 @@
   <Support>https://forums.unraid.net/topic/94624-support-zerreth-confluence<Support/>
   <Project/>
   <Overview>Confluence for Unraid<Overview/>
-  <Category/>
+  <Category/>Cloud: Productivity:<Category/>
   <WebUI>http://[IP]:[PORT:8090]/</WebUI>
   <TemplateURL/>
   <Icon>https://github.com/Zerreth/UnraidConfluence/raw/master/Confluence.png</Icon>
