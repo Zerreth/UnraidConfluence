@@ -3,7 +3,7 @@
   <Name>Confluence</Name>
   <Repository>atlassian/confluence-server</Repository>
   <Registry>https://hub.docker.com/r/atlassian/confluence-server/</Registry>
-  <Network>letsencrypt</Network>
+  <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
