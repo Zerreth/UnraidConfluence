@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/94624-support-zerreth-confluence<Support/>
   <Project/>
   <Overview>Confluence for Unraid<Overview/>
   <Category/>
